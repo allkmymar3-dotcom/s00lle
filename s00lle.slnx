@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="button.txt" />
+  </Folder>
+  <Project Path="../Project2/Project2.vcxproj" Id="6357e5db-9ca9-41f5-81db-1c133faf0d0e" />
+  <Project Path="s00lle.csproj" Id="0bae2bac-03c8-4571-9784-bf6462355ae1">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
